@@ -1,4 +1,4 @@
-📌 Projeto Interfaces
+📌 React Interface Studies
 🎓 Sobre o Projeto
 
 Este repositório contém o projeto desenvolvido para a disciplina de Interfaces da minha MBA, com o objetivo de aplicar na prática os conceitos aprendidos em sala de aula.
